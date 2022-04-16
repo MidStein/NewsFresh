@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">NewsFresh</string>
+    <string-array name="categories_array">
+        <item>Category</item>
+        <item>Business</item>
+        <item>Entertainment</item>
+        <item>Environment</item>
+        <item>Food</item>
+        <item>Health</item>
+        <item>Politics</item>
+        <item>Science</item>
+        <item>Sports</item>
+        <item>Technology</item>
+        <item>Top</item>
+        <item>World</item>
+    </string-array>
+    <string-array name="sources_array">
+        <item>Source</item>
+        <item>NDTV</item>
+        <item>Indian Express</item>
+        <item>India Today</item>
+        <item>ZEE News</item>
+        <item>Bloomberg Quint</item>
+        <item>Euro News</item>
+        <item>CNN</item>
+        <item>RT</item>
+        <item>BBC</item>
+        <item>Sky News</item>
+        <item>CNBC</item>
+    </string-array>
+</resources>
